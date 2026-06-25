@@ -1,0 +1,32 @@
+[
+  {
+    "flag": "SENT",
+    "sender": "Kuda Goto",
+    "recipient": "+27712345679",
+    "messageCounter": 0,
+    "messageID": "5976097607",
+    "messageHash": "59:0:HEY,SUPP",
+    "message": "Hey, supp",
+    "timestamp": 1782346972921
+  },
+  {
+    "flag": "SENT",
+    "sender": "Kuda Kwashe",
+    "recipient": "+277123456799",
+    "messageCounter": 0,
+    "messageID": "4160400104",
+    "messageHash": "41:0:HIJOIN",
+    "message": "Hi, how are you? Was thinking of going to school, wanna join?",
+    "timestamp": 1782404462732
+  },
+  {
+    "flag": "SENT",
+    "sender": "Kuda Kwashe",
+    "recipient": "+27712345699",
+    "messageCounter": 0,
+    "messageID": "7247784452",
+    "messageHash": "72:0:WASSUPYOU",
+    "message": "Wassup, How are you?",
+    "timestamp": 1782404981620
+  }
+]
